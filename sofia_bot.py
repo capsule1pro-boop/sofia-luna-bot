@@ -1,7 +1,7 @@
 import telebot
 
 # Pon tu token aquí (el que te dio BotFather)
-TOKEN = "7988446868:AAE0UAKYwOnLGERCcnXHMdMgNWNoOlhXPPM"  # ← reemplaza esto con tu token real
+TOKEN = "7988446868:AAE0UAKYwOnLGERCcnXHMdMgNWNoOlhXPPM" 
 
 bot = telebot.TeleBot(TOKEN)
 
@@ -62,3 +62,4 @@ print("Bot iniciado...")
 
 
 bot.polling()
+
