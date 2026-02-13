@@ -29,8 +29,11 @@ def comprar(message):
 Para comprar:
 1. Elige paquete (ej. Full Spicy $300)
 2. Paga por:
-   - SPEI / Transferencia: [tu cuenta bancaria o Mercado Pago aquí]
-   - Stripe: [tu link Stripe Checkout aquí]
+   - SOFIA LUNA VIP: https://buy.stripe.com/eVq00i9em8AX80H7s9dMI00
+   - Tease Starter: https://buy.stripe.com/4gM3cu4Y65oL5Szh2JdMI01
+   - Full Spicy: https://buy.stripe.com/aFa3cugGOcRd1CjdQxdMI02
+   - MEGA BUNDLE: https://buy.stripe.com/eVq6oG3U27wTa8PdQxdMI03
+   
 3. Envía comprobante aquí mismo (foto o captura)
 Te doy acceso VIP inmediato o te mando el paquete por DM 💦
 
@@ -61,5 +64,6 @@ print("Bot iniciado...")
 
 
 bot.polling()
+
 
 
